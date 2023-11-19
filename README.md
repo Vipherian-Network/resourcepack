@@ -1,2 +1,5 @@
-# resourcepack
+# Vipherian-Resourcepack
 The Vipherian.de resources!
+
+## License:
+  - 
