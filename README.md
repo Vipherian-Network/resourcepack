@@ -6,4 +6,4 @@ The Vipherian.de resources!
   - Please ask [aredblock](https://discord.com/channels/@me/1035912728503664640) on Discord!
 
 ## License:
-  - This code is licensed under the `All Rights Reserved` License!
+  - This resourcepack is licensed under the `All Rights Reserved` License!
