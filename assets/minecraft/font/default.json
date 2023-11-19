@@ -1,0 +1,25 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/peepohappy.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/peeposad.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/peepoHey.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE003"]
+        }
+    ]
+}
